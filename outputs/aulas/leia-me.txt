@@ -1,0 +1,2 @@
+Esta pasta não é versionada.
+Serve apenas para as aulas do treinamento PDI.

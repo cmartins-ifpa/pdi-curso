@@ -1,0 +1,479 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.34757110-8600-3fea-8596-abcc06dcf7af",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.03603,
+                    -2.41598
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "34757110-8600-3fea-8596-abcc06dcf7af",
+                "longitude": -48.03603,
+                "latitude": -2.41598,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "TOMÉ-AÇU",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1508001,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.7ad5ab89-4004-3a24-a43b-2faaa6162de5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.85592,
+                    -2.49726
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "7ad5ab89-4004-3a24-a43b-2faaa6162de5",
+                "longitude": -48.85592,
+                "latitude": -2.49726,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "ACARÁ",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1500206,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.ce958a07-688c-395c-b040-2f5938feb0fd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.81425,
+                    -3.42391
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "ce958a07-688c-395c-b040-2f5938feb0fd",
+                "longitude": -47.81425,
+                "latitude": -3.42391,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "PARAGOMINAS",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1505502,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.251a911b-8733-3910-9941-e443534df689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.15915,
+                    -4.44867
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "251a911b-8733-3910-9941-e443534df689",
+                "longitude": -48.15915,
+                "latitude": -4.44867,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "RONDON DO PARÁ",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1506187,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.3a8223ea-b533-3329-b2b7-6d2c37608349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.43175,
+                    -2.08894
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "3a8223ea-b533-3329-b2b7-6d2c37608349",
+                "longitude": -47.43175,
+                "latitude": -2.08894,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "CAPITÃO POÇO",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1502301,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.09476cfc-eaa7-3ae1-8cd7-9d628dce2ec8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.13958,
+                    -2.16046
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "09476cfc-eaa7-3ae1-8cd7-9d628dce2ec8",
+                "longitude": -49.13958,
+                "latitude": -2.16046,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "IGARAPÉ-MIRI",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1503309,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.f249d3cd-05e5-300d-aac6-1f6d53d57dd5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.02821,
+                    -2.40563
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "f249d3cd-05e5-300d-aac6-1f6d53d57dd5",
+                "longitude": -48.02821,
+                "latitude": -2.40563,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "TOMÉ-AÇU",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1508001,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.51a3a90d-ae27-3782-9fd2-9b0021064554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.03735,
+                    -2.40694
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "51a3a90d-ae27-3782-9fd2-9b0021064554",
+                "longitude": -48.03735,
+                "latitude": -2.40694,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "TOMÉ-AÇU",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1508001,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.42aad0af-7c62-3975-ab56-a342757d84ca",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.02689,
+                    -2.41467
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "42aad0af-7c62-3975-ab56-a342757d84ca",
+                "longitude": -48.02689,
+                "latitude": -2.41467,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "AURORA DO PARÁ",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1500958,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.f3ac27aa-2133-3e08-b8db-0e666edad3f7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.90245,
+                    -1.61345
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "f3ac27aa-2133-3e08-b8db-0e666edad3f7",
+                "longitude": -47.90245,
+                "latitude": -1.61345,
+                "data_hora_gmt": "2023-06-11 16:58:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "BUJARU",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1501907,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.29d12fd9-1519-3f0d-b832-adb0cda66439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.69457,
+                    -9.43652
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "29d12fd9-1519-3f0d-b832-adb0cda66439",
+                "longitude": -50.69457,
+                "latitude": -9.43652,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SANTANA DO ARAGUAIA",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1506708,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.091261c6-3565-3422-860a-eb37ef2f9121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.5623,
+                    -9.5453
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "091261c6-3565-3422-860a-eb37ef2f9121",
+                "longitude": -50.5623,
+                "latitude": -9.5453,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SANTANA DO ARAGUAIA",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1506708,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.e5035ef2-82f0-3fcd-94df-4372baa81633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.51059,
+                    -6.74018
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "e5035ef2-82f0-3fcd-94df-4372baa81633",
+                "longitude": -49.51059,
+                "latitude": -6.74018,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SAPUCAIA",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1507755,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.cfe18b54-c7aa-308b-896f-08df144c756b",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.51612,
+                    -6.74893
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "cfe18b54-c7aa-308b-896f-08df144c756b",
+                "longitude": -49.51612,
+                "latitude": -6.74893,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SAPUCAIA",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1507755,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.d8cea957-fb87-318e-a5ad-f7ebdcb85404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.07429,
+                    -9.43383
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "d8cea957-fb87-318e-a5ad-f7ebdcb85404",
+                "longitude": -52.07429,
+                "latitude": -9.43383,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SÃO FÉLIX DO XINGU",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1507300,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "focos_brasil_hoje_ref.c654b584-7bd2-3f41-b36b-78f50b08e8a7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.71052,
+                    -9.43863
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": "c654b584-7bd2-3f41-b36b-78f50b08e8a7",
+                "longitude": -50.71052,
+                "latitude": -9.43863,
+                "data_hora_gmt": "2023-06-11 16:56:00",
+                "satelite": "AQUA_M-T",
+                "municipio": "SANTANA DO ARAGUAIA",
+                "estado": "PARÁ",
+                "pais": "Brasil",
+                "municipio_id": 1506708,
+                "estado_id": 15,
+                "pais_id": 33,
+                "numero_dias_sem_chuva": null,
+                "precipitacao": null,
+                "risco_fogo": null,
+                "bioma": "Amazônia"
+            }
+        }
+    ],
+    "totalFeatures": 16,
+    "numberMatched": 16,
+    "numberReturned": 16,
+    "timeStamp": "2023-06-11T21:26:45.567Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

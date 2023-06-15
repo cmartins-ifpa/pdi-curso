@@ -1,0 +1,29 @@
+-- rode os DROPs caso necessite apagar as tabelas
+DROP TABLE municipio;
+DROP TABLE tipo_veiculo;
+DROP TABLE FROTA;
+
+CREATE TABLE municipio (
+  id_munic INT PRIMARY KEY,
+  uf VARCHAR(2),
+  municipio VARCHAR(200)
+);
+CREATE INDEX idx_MUNICIPIO_lookup ON PUBLIC.MUNICIPIO(UF, MUNICIPIO);
+
+
+CREATE TABLE PUBLIC.TIPO_VEICULO(
+  id_tipo IDENTITY PRIMARY KEY,
+  TIPO_VEICULO VARCHAR(100)
+);
+CREATE INDEX idx_TIPO_VEICULO_lookup ON PUBLIC.TIPO_VEICULO(TIPO_VEICULO);
+
+
+CREATE TABLE PUBLIC.FROTA (
+  id_frota IDENTITY PRIMARY KEY, 
+  ano  INT,
+  mes  INT,
+  id_munic INT, 
+  id_tipo INT,
+  QUANTIDADE INT  
+);
+CREATE INDEX idx_FROTA_lookup ON PUBLIC.TIPO_VEICULO(ano, mes, id_munic, id_tipo);

@@ -1,0 +1,143 @@
+[
+    {
+        "cep": "66083156",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Pedreira",
+        "logradouro": "Travessa Doutor Enéas Pinheiro - até 444/445"
+    },
+    {
+        "cep": "66083157",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Pedreira",
+        "logradouro": "Travessa Doutor Enéas Pinheiro - de 446/447 a 1164/1165"
+    },
+    {
+        "cep": "66083158",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Pedreira",
+        "logradouro": "Travessa Doutor Enéas Pinheiro - de 1166/1167 a 1484/1485"
+    },
+    {
+        "cep": "66095015",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Marco",
+        "logradouro": "Travessa Doutor Enéas Pinheiro - de 1830/1831 ao fim"
+    },
+    {
+        "cep": "66095105",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Marco",
+        "logradouro": "Travessa Doutor Enéas Pinheiro - de 1486/1487 a 1828/1829"
+    },
+    {
+        "cep": "66095130",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Marco",
+        "logradouro": "Conjunto Enéas Pinheiro"
+    },
+    {
+        "cep": "66095903",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Marco",
+        "logradouro": "Conjunto Enéas Pinheiro, s/n",
+        "aux": "Embrapa-Empresa Brasileira de Pesquisa Agropecuária"
+    },
+    {
+        "cep": "66080235",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Pedreira",
+        "logradouro": "Passagem F (Tv Enéias Pinheiro)"
+    },
+    {
+        "cep": "66083002",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Pedreira",
+        "logradouro": "Vila Pinheiro (Tv Mauriti)"
+    },
+    {
+        "cep": "66023190",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Batista Campos",
+        "logradouro": "Vila Alzira (Da Tv S Francisco)"
+    },
+    {
+        "cep": "66033155",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Condor",
+        "logradouro": "Passagem Boa Esperança (Da Tv dos Tupinambás)"
+    },
+    {
+        "cep": "66033485",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Jurunas",
+        "logradouro": "Vila São José (Da Tv Hónorio José dos Santos)"
+    },
+    {
+        "cep": "66033730",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Batista Campos",
+        "logradouro": "Vila São José (Da Tv Apinagés)"
+    },
+    {
+        "cep": "66033810",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Condor",
+        "logradouro": "Passagem Bom Jesus (Da Tv dos Tupinambás)"
+    },
+    {
+        "cep": "66035040",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Batista Campos",
+        "logradouro": "Vila Augusta (Da Tv Dr Moraes)"
+    },
+    {
+        "cep": "66045450",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Condor",
+        "logradouro": "Passagem São Sebastião (Da Tv Padre Eutíquio)"
+    },
+    {
+        "cep": "66060105",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Umarizal",
+        "logradouro": "Vila São Luís (Da Tv Nove de Janeiro)"
+    },
+    {
+        "cep": "66060245",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Fátima",
+        "logradouro": "Vila Santo Antônio (Da Tv Quatorze de Abril)"
+    },
+    {
+        "cep": "66063405",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Guamá",
+        "logradouro": "Vila Santa Rosa (Tv Francisco C C Branco)"
+    },
+    {
+        "cep": "66063520",
+        "uf": "PA",
+        "cidade": "Belém",
+        "bairro": "Guamá",
+        "logradouro": "Vila Resende (Da Tv Quatorze de Abril)"
+    }
+]
